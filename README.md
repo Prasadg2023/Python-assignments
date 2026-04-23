@@ -45,18 +45,7 @@ This project is a structured collection of **assignments, exercises, and problem
 - 💾 **File Handling** → Reading & writing `.txt` files  
 - 🛡️ **Exception Handling** → Writing robust, error-free code  
 
----
-
-## 🛠️ Getting Started  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/Prasadg2023/python-learning-portfolio.git
-```
-
-### 2️⃣ Requirements  
-- Python (3.x recommended)  
-- Jupyter Notebook / VS Code  
+--- 
 
 ### 3️⃣ Run the Project  
 - Open `.ipynb` files in Jupyter Notebook or VS Code  
